@@ -1,0 +1,24 @@
+ENVI
+description = {
+  Resampled Spectral Library [Tue Oct 28 14:42:49 2025]}
+samples = 7
+lines   = 16
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Micrometers
+reflectance scale factor = 1.000000
+band names = {
+ Resampled (Spectral Library:frlea.sli)}
+spectra names = {
+ Asphalt 1, Asphalt 2, Dresser Diamond (Dirt), Dresser Diamond (Grass), 
+ Green American Sweetgum Leaf, Pine Needles (Dead), Pine Needles (Green), 
+ Purple Flower, Red Maple Leaf 1 (Freeman), Red Maple Leaf 2 (Church/High), 
+ Sidewalk (Curch St.), Sugar Gum Spikey Fruit, Tennis Court (Blue), 
+ Tennis Court (Gray Concrete), Tennis Court (Red), Track Surface}
+wavelength = {
+ 0.442491, 0.482764, 0.560859, 0.654205, 0.863971, 1.609077, 2.201533}
